@@ -1,0 +1,38 @@
+/*Apply styles to the body*/
+body{
+    font-family:Arial, sans-serif;
+    margin:0;
+    padding:0;
+    background-color:#f4f4f4;
+}
+
+/*Style the header*/
+header{
+    background-color:#333;
+    color:white;
+    text-align:center;
+    padding:15px;
+}
+
+/*Style navigation links*/
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:0 10px;
+    font-weight:bold;
+}
+
+nav a:hover{
+    text-decoration:underline;
+}
+
+/*Center content*/
+section{
+    width:80%
+    margin:20px auto;
+    padding:20px;
+    background-color:white;
+    box-shadow:0 0 10px rgba(o,o,o,o.1);
+}
+
+/*Style the folder*/
